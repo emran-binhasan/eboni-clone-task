@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Spicy Burger",
+      "price": 6.99,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "name": "Lemonade",
+      "price": 2.49,
+      "quantity": 1
+    }
+  ]
+  

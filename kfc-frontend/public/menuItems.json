@@ -1,0 +1,233 @@
+[
+    {
+      "id": 1,
+      "name": "Spicy Burger",
+      "category": "Burgers",
+      "price": 6.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "A delicious spicy burger with crispy chicken and jalapeños."
+    },
+    {
+      "id": 2,
+      "name": "French Fries (Large)",
+      "category": "French Fries",
+      "price": 3.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Crispy golden french fries served with ketchup."
+    },
+    {
+      "id": 3,
+      "name": "Classic Fried Chicken (4 pcs)",
+      "category": "Fried Chicken",
+      "price": 8.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "4 pieces of crispy fried chicken."
+    },
+    {
+      "id": 4,
+      "name": "Soft Drink - Cola",
+      "category": "Drinks",
+      "type": "Soft",
+      "price": 1.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Refreshing cola drink (500ml)."
+    },
+    {
+      "id": 5,
+      "name": "Cold Coffee",
+      "category": "Drinks",
+      "type": "Cold",
+      "price": 2.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Chilled coffee with creamy milk and ice."
+    },
+    {
+      "id": 6,
+      "name": "Lemonade",
+      "category": "Drinks",
+      "type": "Lemon",
+      "price": 2.49,
+      "image": "https://via.placeholder.com/150",
+      "description": "Freshly squeezed lemonade with a hint of mint."
+    },
+    {
+      "id": 7,
+      "name": "Margherita Pizza",
+      "category": "Pizzas",
+      "price": 9.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Classic Margherita pizza with fresh mozzarella and basil."
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 4.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Rich chocolate brownie served warm with a scoop of vanilla ice cream."
+    },
+    {
+        "id": 9,
+        "name": "Cheese Burger",
+        "category": "Burgers",
+        "price": 7.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Juicy burger with melted cheese, lettuce, and tomato."
+    },
+    {
+        "id": 10,
+        "name": "Chicken Nuggets (10 pcs)",
+        "category": "Fried Chicken",
+        "price": 6.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Crispy chicken nuggets served with dipping sauce."
+    },
+    {
+        "id": 11,
+        "name": "BBQ Chicken Pizza",
+        "category": "Pizzas",
+        "price": 11.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Pizza topped with BBQ chicken, onions, and mozzarella cheese."
+    },
+    {
+        "id": 12,
+        "name": "Garlic Breadsticks",
+        "category": "French Fries",
+        "price": 4.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Freshly baked garlic breadsticks with a side of marinara sauce."
+    },
+    {
+        "id": 13,
+        "name": "Hot Wings (6 pcs)",
+        "category": "Fried Chicken",
+        "price": 7.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Spicy and crispy chicken wings served with ranch dip."
+    },
+    {
+        "id": 14,
+        "name": "Chocolate Milkshake",
+        "category": "Drinks",
+        "type": "Cold",
+        "price": 3.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Rich and creamy chocolate milkshake topped with whipped cream."
+    },
+    {
+        "id": 15,
+        "name": "Classic Lemon Tart",
+        "category": "Desserts",
+        "price": 5.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "A tangy lemon tart with a buttery crust."
+    },
+    {
+        "id": 16,
+        "name": "Veggie Pizza",
+        "category": "Pizzas",
+        "price": 10.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Loaded with bell peppers, olives, onions, and mushrooms."
+    },
+    {
+        "id": 17,
+        "name": "Strawberry Sundae",
+        "category": "Desserts",
+        "price": 4.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Vanilla ice cream topped with strawberry syrup and fresh strawberries."
+    },
+    {
+        "id": 18,
+        "name": "Grilled Chicken Burger",
+        "category": "Burgers",
+        "price": 8.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Tender grilled chicken burger with lettuce and mayo."
+    },
+    {
+        "id": 19,
+        "name": "Loaded Cheese Fries",
+        "category": "French Fries",
+        "price": 5.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "French fries loaded with melted cheese and bacon bits."
+    },
+    {
+        "id": 20,
+        "name": "Spicy Fried Chicken (2 pcs)",
+        "category": "Fried Chicken",
+        "price": 6.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Two pieces of spicy fried chicken served hot."
+    },
+    {
+        "id": 21,
+        "name": "Vanilla Milkshake",
+        "category": "Drinks",
+        "type": "Soft",
+        "price": 3.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Creamy vanilla milkshake made with fresh ice cream."
+    },
+    {
+        "id": 22,
+        "name": "Pepperoni Pizza",
+        "category": "Pizzas",
+        "price": 12.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Classic pizza topped with pepperoni slices and mozzarella cheese."
+    },
+    {
+        "id": 23,
+        "name": "Tiramisu",
+        "category": "Desserts",
+        "price": 6.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream."
+    },
+    {
+        "id": 24,
+        "name": "Mango Smoothie",
+        "category": "Drinks",
+        "type": "Cold",
+        "price": 4.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Refreshing mango smoothie made with real mangoes and yogurt."
+    },
+    {
+        "id": 25,
+        "name": "Chicken Alfredo Pizza",
+        "category": "Pizzas",
+        "price": 13.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Pizza topped with creamy Alfredo sauce, grilled chicken, and mozzarella."
+    },
+    {
+        "id": 26,
+        "name": "Curly Fries",
+        "category": "French Fries",
+        "price": 4.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Seasoned curly fries served with ranch dipping sauce."
+    },
+    {
+        "id": 27,
+        "name": "Chicken Caesar Salad",
+        "category": "What's New",
+        "price": 8.99,
+        "image": "https://via.placeholder.com/150",
+        "description": "Fresh romaine lettuce with grilled chicken, croutons, and Caesar dressing."
+    },
+    {
+        "id": 28,
+        "name": "Ice Cream Cone",
+        "category": "Desserts",
+        "price": 2.49,
+        "image": "https://via.placeholder.com/150",
+        "description": "Classic vanilla ice cream served in a crispy cone."
+    }
+    
+]

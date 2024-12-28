@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "KFC Vaz",
+    "banner": "https://via.placeholder.com/800x200",
+    "rating": 4.6,
+    "reviews": 250,
+    "promo": "Free delivery on any order",
+    "categories": [
+      "What's New",
+      "Burgers",
+      "French Fries",
+      "Fried Chicken",
+      "Drinks",
+      "Pizzas",
+      "Desserts"
+    ]
+  }
+  

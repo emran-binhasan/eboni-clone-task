@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "What's New"
+    },
+    {
+      "id": 2,
+      "name": "Burgers"
+    },
+    {
+      "id": 3,
+      "name": "French Fries"
+    },
+    {
+      "id": 4,
+      "name": "Fried Chicken"
+    },
+    {
+      "id": 5,
+      "name": "Drinks",
+      "types": ["Soft", "Cold", "Lemon"]
+    },
+    {
+      "id": 6,
+      "name": "Pizzas"
+    },
+    {
+      "id": 7,
+      "name": "Desserts"
+    }
+  ]
+  
